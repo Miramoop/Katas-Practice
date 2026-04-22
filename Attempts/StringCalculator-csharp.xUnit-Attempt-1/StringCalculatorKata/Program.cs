@@ -1,9 +1,23 @@
-﻿namespace StringCalculatorKata;
-
-public class Program
+﻿
+namespace StringCalculatorKata
 {
-    public static int AddNumbers(string numbers)
+    public class StringCalculator
     {
-        return 0;
+        public object Add(string numbers)
+        {
+            if (String.IsNullOrEmpty(numbers))
+            {
+                return 0;
+            }
+
+            var delimiters = new[] { ',', '\n' };
+            var result = numbers.Split(delimiters)
+                .Select(s => int.Parse(s))
+                .Sum();
+
+            return result;
+        }
     }
 }
+
+
