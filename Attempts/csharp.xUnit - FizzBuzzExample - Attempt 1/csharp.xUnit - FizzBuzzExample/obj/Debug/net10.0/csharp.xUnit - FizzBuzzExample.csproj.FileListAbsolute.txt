@@ -1,0 +1,14 @@
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\bin\Debug\net10.0\csharp.xUnit - FizzBuzzExample.exe
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\bin\Debug\net10.0\csharp.xUnit - FizzBuzzExample.deps.json
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\bin\Debug\net10.0\csharp.xUnit - FizzBuzzExample.runtimeconfig.json
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\bin\Debug\net10.0\csharp.xUnit - FizzBuzzExample.dll
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\bin\Debug\net10.0\csharp.xUnit - FizzBuzzExample.pdb
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\obj\Debug\net10.0\csharp.xUnit - FizzBuzzExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\obj\Debug\net10.0\csharp.xUnit - FizzBuzzExample.AssemblyInfoInputs.cache
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\obj\Debug\net10.0\csharp.xUnit - FizzBuzzExample.AssemblyInfo.cs
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\obj\Debug\net10.0\csharp.xUnit - FizzBuzzExample.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\obj\Debug\net10.0\csharp.xUnit - FizzBuzzExample.dll
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\obj\Debug\net10.0\refint\csharp.xUnit - FizzBuzzExample.dll
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\obj\Debug\net10.0\csharp.xUnit - FizzBuzzExample.pdb
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\obj\Debug\net10.0\csharp.xUnit - FizzBuzzExample.genruntimeconfig.cache
+C:\Users\miran\source\repos\Katas Practice\csharp.xUnit - FizzBuzzExample - Attempt 1\csharp.xUnit - FizzBuzzExample\obj\Debug\net10.0\ref\csharp.xUnit - FizzBuzzExample.dll
