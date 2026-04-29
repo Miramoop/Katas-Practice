@@ -13,4 +13,3 @@ You can also do this Kata as the Lapps in the arctic north are doing it for cent
     For the multiples of five: print `Sauna!` instead of the number
     For numbers which are multiples of both three and five: print `Dip!` instead of the number
 
-s
