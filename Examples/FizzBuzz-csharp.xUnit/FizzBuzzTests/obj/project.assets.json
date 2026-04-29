@@ -919,11 +919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\FizzBuzz-csharp.xUnit\\FizzBuzzTests\\FizzBuzzTests.csproj",
       "projectName": "FizzBuzzTests",
-      "projectPath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\FizzBuzz-csharp.xUnit\\FizzBuzzTests\\FizzBuzzTests.csproj",
       "packagesPath": "C:\\Users\\miran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample\\FizzBuzzTests\\obj\\",
+      "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\FizzBuzz-csharp.xUnit\\FizzBuzzTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miran\\AppData\\Roaming\\NuGet\\NuGet.Config",

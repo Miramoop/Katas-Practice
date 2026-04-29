@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "regjWQfoiQQ=",
+  "dgSpecHash": "UUhlmaUTREw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample\\FizzBuzzTests\\FizzBuzzTests.csproj",
+  "projectFilePath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\FizzBuzz-csharp.xUnit\\FizzBuzzTests\\FizzBuzzTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miran\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\miran\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

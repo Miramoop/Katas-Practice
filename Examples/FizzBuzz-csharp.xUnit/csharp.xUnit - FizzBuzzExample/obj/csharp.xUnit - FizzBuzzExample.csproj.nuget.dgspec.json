@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj": {}
+    "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\FizzBuzz-csharp.xUnit\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj": {
+    "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\FizzBuzz-csharp.xUnit\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj",
+        "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\FizzBuzz-csharp.xUnit\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj",
         "projectName": "csharp.xUnit - FizzBuzzExample",
-        "projectPath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj",
+        "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\FizzBuzz-csharp.xUnit\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj",
         "packagesPath": "C:\\Users\\miran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample\\obj\\",
+        "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\FizzBuzz-csharp.xUnit\\csharp.xUnit - FizzBuzzExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miran\\AppData\\Roaming\\NuGet\\NuGet.Config",
