@@ -393,6 +393,19 @@
         "build": {
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "FizzBuzz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "xunit": "2.9.3"
+        },
+        "compile": {
+          "bin/placeholder/FizzBuzz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FizzBuzz.dll": {}
+        }
       }
     }
   },
@@ -903,10 +916,16 @@
         "xunit.runner.visualstudio.3.1.4.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "FizzBuzz/1.0.0": {
+      "type": "project",
+      "path": "../FizzBuzz/FizzBuzz.csproj",
+      "msbuildProject": "../FizzBuzz/FizzBuzz.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "FizzBuzz >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
@@ -939,7 +958,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzz-csharp.xUnit - Attempt 2\\FizzBuzz\\FizzBuzz.csproj": {
+              "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzz-csharp.xUnit - Attempt 2\\FizzBuzz\\FizzBuzz.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
