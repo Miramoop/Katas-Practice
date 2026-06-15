@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnTicket", "TurnTicket\TurnTicket.csproj", "{C93AA203-B157-428B-A860-BD14F9A92E4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurnTicket.Tests", "TurnTicket.Tests\TurnTicket.Tests.csproj", "{C4382AB1-986C-4597-A914-3205BBBBD2D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C93AA203-B157-428B-A860-BD14F9A92E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C93AA203-B157-428B-A860-BD14F9A92E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C93AA203-B157-428B-A860-BD14F9A92E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4382AB1-986C-4597-A914-3205BBBBD2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4382AB1-986C-4597-A914-3205BBBBD2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4382AB1-986C-4597-A914-3205BBBBD2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4382AB1-986C-4597-A914-3205BBBBD2D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
