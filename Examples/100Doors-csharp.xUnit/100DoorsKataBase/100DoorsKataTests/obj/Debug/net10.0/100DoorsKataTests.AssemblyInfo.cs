@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("100DoorsKataTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98e52c6f6e4475e0a5ba6aadd20e2944c31fd4b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b14623a41b8423c276bb2ccd33cb3a3a4ca8ef93")]
 [assembly: System.Reflection.AssemblyProductAttribute("100DoorsKataTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("100DoorsKataTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
