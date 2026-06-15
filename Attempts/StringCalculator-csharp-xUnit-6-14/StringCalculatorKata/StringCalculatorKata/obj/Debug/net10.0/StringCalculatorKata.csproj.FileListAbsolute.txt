@@ -1,0 +1,12 @@
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\bin\Debug\net10.0\StringCalculatorKata.deps.json
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\bin\Debug\net10.0\StringCalculatorKata.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\bin\Debug\net10.0\StringCalculatorKata.pdb
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.AssemblyInfoInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.AssemblyInfo.cs
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.sourcelink.json
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\obj\Debug\net10.0\refint\StringCalculatorKata.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.pdb
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp-xUnit-6-14\StringCalculatorKata\StringCalculatorKata\obj\Debug\net10.0\ref\StringCalculatorKata.dll
