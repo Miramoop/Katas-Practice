@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100DoorsKataBase", "100DoorsKataBase\100DoorsKataBase.csproj", "{4866515B-DB55-4EE6-B1FB-3C2A94E29179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100DoorsKataTests", "100DoorsKataTests\100DoorsKataTests.csproj", "{6C4C2A24-4002-4ABE-8814-CF519ED7CF13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4866515B-DB55-4EE6-B1FB-3C2A94E29179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4866515B-DB55-4EE6-B1FB-3C2A94E29179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4866515B-DB55-4EE6-B1FB-3C2A94E29179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4866515B-DB55-4EE6-B1FB-3C2A94E29179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4C2A24-4002-4ABE-8814-CF519ED7CF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4C2A24-4002-4ABE-8814-CF519ED7CF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4C2A24-4002-4ABE-8814-CF519ED7CF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4C2A24-4002-4ABE-8814-CF519ED7CF13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
