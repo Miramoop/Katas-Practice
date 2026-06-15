@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ea82011-66fb-4599-b6b6-2eadf2af1cb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/BowlingGame-csharp.xUnit.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BowlingGame/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BowlingGame/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/BowlingGame.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/BowlingGame.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/bin/Debug/net10.0/.msCoverageSourceRootsMapping_BowlingGame.Tests" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/bin/Debug/net10.0/.msCoverageSourceRootsMapping_BowlingGame.Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/bin/Debug/net10.0/CoverletSourceRootsMapping_BowlingGame.Tests" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/bin/Debug/net10.0/CoverletSourceRootsMapping_BowlingGame.Tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/obj/BowlingGame.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/obj/BowlingGame.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/obj/Debug/net10.0/BowlingGame.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/obj/Debug/net10.0/BowlingGame.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/obj/Debug/net10.0/BowlingGame.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/obj/Debug/net10.0/BowlingGame.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame.Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/BowlingGame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/BowlingGame.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/BowlingGame.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/BowlingGame.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/BowlingGame.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/BowlingGame.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/BowlingGame.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/BowlingGame.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/BowlingGame.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/Debug/net10.0/BowlingGame.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/Debug/net10.0/BowlingGame.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/Debug/net10.0/BowlingGame.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/Debug/net10.0/BowlingGame.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/Debug/net10.0/BowlingGame.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/Debug/net10.0/BowlingGame.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/Debug/net10.0/BowlingGame.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/Debug/net10.0/BowlingGame.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/Debug/net10.0/BowlingGame.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/Debug/net10.0/BowlingGame.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BowlingGame/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BowlingGame-csharp.xUnit/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Miramoop"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Miramoop/Katas-Practice.git",
+    "accountId": "e92d5899-eb3d-4ee6-a4bd-0413c55d7a64"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BowlingGame-csharp.xUnit/BowlingGame.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FBYGDcCxi4PKPLrVD9IV8Xeuuw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ea82011-66fb-4599-b6b6-2eadf2af1cb1" name="Changes" comment="" />
+      <created>1781549832107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781549832107</updated>
+      <workItem from="1781549840331" duration="1279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

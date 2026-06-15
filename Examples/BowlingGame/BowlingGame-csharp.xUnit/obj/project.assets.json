@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\BowlingGame.csproj",
-      "projectName": "BowlingGame",
-      "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\BowlingGame.csproj",
+      "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\BowlingGame-csharp.xUnit.csproj",
+      "projectName": "BowlingGame-csharp.xUnit",
+      "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\BowlingGame-csharp.xUnit.csproj",
       "packagesPath": "C:\\Users\\miran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\obj\\",
+      "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

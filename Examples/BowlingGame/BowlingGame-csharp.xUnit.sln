@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGame", "BowlingGame\BowlingGame.csproj", "{AEDA5E73-AFFB-4D1C-A653-B203FACA518F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGame-csharp.xUnit", "BowlingGame-csharp.xUnit\BowlingGame-csharp.xUnit.csproj", "{AEDA5E73-AFFB-4D1C-A653-B203FACA518F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGame.Tests", "BowlingGame.Tests\BowlingGame.Tests.csproj", "{428372EE-FD6F-4C3A-8F3D-62EBA1B48E20}"
 EndProject

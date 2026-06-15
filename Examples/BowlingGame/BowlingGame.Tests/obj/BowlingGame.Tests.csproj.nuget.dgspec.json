@@ -4,14 +4,14 @@
     "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame.Tests\\BowlingGame.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame.Tests\\BowlingGame.Tests.csproj": {
+    "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\BowlingGame-csharp.xUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame.Tests\\BowlingGame.Tests.csproj",
-        "projectName": "BowlingGame.Tests",
-        "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame.Tests\\BowlingGame.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\BowlingGame-csharp.xUnit.csproj",
+        "projectName": "BowlingGame-csharp.xUnit",
+        "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\BowlingGame-csharp.xUnit.csproj",
         "packagesPath": "C:\\Users\\miran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame.Tests\\obj\\",
+        "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,11 +31,7 @@
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
-            "projectReferences": {
-              "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\BowlingGame.csproj": {
-                "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\BowlingGame.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -53,24 +49,6 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.14.1, )"
-            },
-            "coverlet.collector": {
-              "target": "Package",
-              "version": "[6.0.4, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.9.3, )"
-            },
-            "xunit.runner.visualstudio": {
-              "target": "Package",
-              "version": "[3.1.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -365,14 +343,14 @@
         }
       }
     },
-    "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\BowlingGame.csproj": {
+    "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame.Tests\\BowlingGame.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\BowlingGame.csproj",
-        "projectName": "BowlingGame",
-        "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\BowlingGame.csproj",
+        "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame.Tests\\BowlingGame.Tests.csproj",
+        "projectName": "BowlingGame.Tests",
+        "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame.Tests\\BowlingGame.Tests.csproj",
         "packagesPath": "C:\\Users\\miran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\obj\\",
+        "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -392,7 +370,11 @@
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\BowlingGame-csharp.xUnit.csproj": {
+                "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\BowlingGame-csharp.xUnit.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -410,6 +392,24 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

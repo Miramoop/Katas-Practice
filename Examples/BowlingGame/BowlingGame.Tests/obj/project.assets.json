@@ -394,14 +394,14 @@
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "BowlingGame/1.0.0": {
+      "BowlingGame-csharp.xUnit/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "compile": {
-          "bin/placeholder/BowlingGame.dll": {}
+          "bin/placeholder/BowlingGame-csharp.xUnit.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BowlingGame.dll": {}
+          "bin/placeholder/BowlingGame-csharp.xUnit.dll": {}
         }
       }
     }
@@ -914,15 +914,15 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "BowlingGame/1.0.0": {
+    "BowlingGame-csharp.xUnit/1.0.0": {
       "type": "project",
-      "path": "../BowlingGame/BowlingGame.csproj",
-      "msbuildProject": "../BowlingGame/BowlingGame.csproj"
+      "path": "../BowlingGame-csharp.xUnit/BowlingGame-csharp.xUnit.csproj",
+      "msbuildProject": "../BowlingGame-csharp.xUnit/BowlingGame-csharp.xUnit.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "BowlingGame >= 1.0.0",
+      "BowlingGame-csharp.xUnit >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
@@ -961,8 +961,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\BowlingGame.csproj": {
-              "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame\\BowlingGame.csproj"
+            "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\BowlingGame-csharp.xUnit.csproj": {
+              "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Examples\\BowlingGame\\BowlingGame-csharp.xUnit\\BowlingGame-csharp.xUnit.csproj"
             }
           }
         }

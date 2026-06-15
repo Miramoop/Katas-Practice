@@ -19,7 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\BowlingGame\BowlingGame.csproj" />
+      <ProjectReference Include="..\BowlingGame-csharp.xUnit\BowlingGame-csharp.xUnit.csproj" />
     </ItemGroup>
 
 </Project>
