@@ -1,0 +1,12 @@
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\obj\Debug\net10.0\100DoorsKataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\obj\Debug\net10.0\100DoorsKataBase.AssemblyInfoInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\obj\Debug\net10.0\100DoorsKataBase.AssemblyInfo.cs
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\obj\Debug\net10.0\100DoorsKataBase.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\obj\Debug\net10.0\100DoorsKataBase.sourcelink.json
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\bin\Debug\net10.0\100DoorsKataBase.deps.json
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\bin\Debug\net10.0\100DoorsKataBase.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\bin\Debug\net10.0\100DoorsKataBase.pdb
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\obj\Debug\net10.0\100DoorsKataBase.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\obj\Debug\net10.0\refint\100DoorsKataBase.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\obj\Debug\net10.0\100DoorsKataBase.pdb
+C:\Users\miran\source\repos\Katas-Practice\Attempts\100DoorsKata-csharp-xUnit-6-12\100DoorsKataBase\obj\Debug\net10.0\ref\100DoorsKataBase.dll
