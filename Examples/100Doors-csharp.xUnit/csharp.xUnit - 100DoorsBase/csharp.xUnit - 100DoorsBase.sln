@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp.xUnit - 100DoorsBase", "csharp.xUnit - 100DoorsBase\csharp.xUnit - 100DoorsBase.csproj", "{212F06BA-1E9E-4C07-B8DA-E4735B2A40B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100DoorsKataTests", "100DoorsKataTests\100DoorsKataTests.csproj", "{AFB4E1F1-D866-47D7-A6C8-F615AD84D5B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{212F06BA-1E9E-4C07-B8DA-E4735B2A40B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212F06BA-1E9E-4C07-B8DA-E4735B2A40B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212F06BA-1E9E-4C07-B8DA-E4735B2A40B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212F06BA-1E9E-4C07-B8DA-E4735B2A40B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB4E1F1-D866-47D7-A6C8-F615AD84D5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB4E1F1-D866-47D7-A6C8-F615AD84D5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB4E1F1-D866-47D7-A6C8-F615AD84D5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB4E1F1-D866-47D7-A6C8-F615AD84D5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
