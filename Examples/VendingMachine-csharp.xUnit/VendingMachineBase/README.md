@@ -11,12 +11,12 @@ that can be chosen and dispensed.
 There are four products available in this vending machine. Each product is 
 able to be selected by sending the appropriate code to the machine.
 
-| Item  | Price  |  Code  | Quantity |
-|:-----:|:------:|:------:|:--------:|
-| Soda  | $1.00  |  A01   |    10    |
-| Chips | $0.65  |  A03   |    12    |
-| Candy | $0.85  |  A03   |    8     |
-|  Gum  | $0.40  |  A04   |    3     |
+| Item  | Price  | Code | Quantity |
+|:-----:|:------:|:----:|:--------:|
+| Soda  | $1.00  | A01  |    10    |
+| Chips | $0.65  | A02  |    12    |
+| Candy | $0.85  | A03  |    8     |
+|  Gum  | $0.40  | A04  |    3     |
 
 #### Exact Change
 

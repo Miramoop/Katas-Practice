@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace StringCalculatorKata;
+﻿namespace StringCalculatorKata;
 
 public class StringCalculator
 {

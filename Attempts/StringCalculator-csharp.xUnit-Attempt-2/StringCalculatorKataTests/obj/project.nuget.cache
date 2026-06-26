@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9DC7J7luDA=",
+  "dgSpecHash": "XSQNqHiP1xU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\StringCalculatorKata\\StringCalculatorKataTests\\StringCalculatorKataTests.csproj",
+  "projectFilePath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\StringCalculator-csharp.xUnit-Attempt-2\\StringCalculatorKataTests\\StringCalculatorKataTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miran\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\miran\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

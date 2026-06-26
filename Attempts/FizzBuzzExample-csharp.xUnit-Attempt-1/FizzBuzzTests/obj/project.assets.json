@@ -393,16 +393,6 @@
         "build": {
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
-      },
-      "csharp.xUnit - FizzBuzzExample/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "compile": {
-          "bin/placeholder/csharp.xUnit - FizzBuzzExample.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/csharp.xUnit - FizzBuzzExample.dll": {}
-        }
       }
     }
   },
@@ -913,18 +903,13 @@
         "xunit.runner.visualstudio.3.1.4.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
-    },
-    "csharp.xUnit - FizzBuzzExample/1.0.0": {
-      "type": "project",
-      "path": "../csharp.xUnit - FizzBuzzExample/csharp.xUnit - FizzBuzzExample.csproj",
-      "msbuildProject": "../csharp.xUnit - FizzBuzzExample/csharp.xUnit - FizzBuzzExample.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzzExample-csharp.xUnit-Attempt-1\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "coverlet.collector >= 6.0.4",
-      "csharp.xUnit - FizzBuzzExample >= 1.0.0",
       "xunit >= 2.9.3",
       "xunit.runner.visualstudio >= 3.1.4"
     ]
@@ -935,11 +920,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample - Attempt 1\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzzExample-csharp.xUnit-Attempt-1\\FizzBuzzTests\\FizzBuzzTests.csproj",
       "projectName": "FizzBuzzTests",
-      "projectPath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample - Attempt 1\\FizzBuzzTests\\FizzBuzzTests.csproj",
+      "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzzExample-csharp.xUnit-Attempt-1\\FizzBuzzTests\\FizzBuzzTests.csproj",
       "packagesPath": "C:\\Users\\miran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample - Attempt 1\\FizzBuzzTests\\obj\\",
+      "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzzExample-csharp.xUnit-Attempt-1\\FizzBuzzTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\miran\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -956,8 +941,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample - Attempt 1\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj": {
-              "projectPath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\csharp.xUnit - FizzBuzzExample - Attempt 1\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj"
+            "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzzExample-csharp.xUnit-Attempt-1\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj": {
+              "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzzExample-csharp.xUnit-Attempt-1\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj"
             }
           }
         }
@@ -1288,5 +1273,16 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzzExample-csharp.xUnit-Attempt-1\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\FizzBuzzExample-csharp.xUnit-Attempt-1\\csharp.xUnit - FizzBuzzExample\\csharp.xUnit - FizzBuzzExample.csproj",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
