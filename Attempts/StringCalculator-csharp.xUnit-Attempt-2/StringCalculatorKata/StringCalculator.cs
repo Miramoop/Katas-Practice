@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace StringCalculatorKata;
 
-public class StringCalcualtor
+public class StringCalculator
 {
     public int Add(string numbers)
     {
@@ -19,7 +19,7 @@ public class StringCalcualtor
                 .Where(x => x < 0);
             var delimiter = ",";
             var stringOfNumberNumbers = string.Join(delimiter, listOfNegativeNumbers);
-
+        
             throw new Exception($"Negative Numbers Not Allowed: {stringOfNumberNumbers}");
         }
 
@@ -30,5 +30,7 @@ public class StringCalcualtor
                 .Sum();
             return total;
         }
+        
+        return (int.Parse(numbers));
     }
 }

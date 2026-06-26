@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miran\\source\\repos\\Katas Practice\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj": {}
+    "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\StringCalculator-csharp.xUnit-Attempt-2\\StringCalculatorKata\\StringCalculatorKata.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miran\\source\\repos\\Katas Practice\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj": {
+    "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\StringCalculator-csharp.xUnit-Attempt-2\\StringCalculatorKata\\StringCalculatorKata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas Practice\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
+        "projectUniqueName": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\StringCalculator-csharp.xUnit-Attempt-2\\StringCalculatorKata\\StringCalculatorKata.csproj",
         "projectName": "StringCalculatorKata",
-        "projectPath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\StringCalculatorKata\\StringCalculatorKata\\StringCalculatorKata.csproj",
+        "projectPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\StringCalculator-csharp.xUnit-Attempt-2\\StringCalculatorKata\\StringCalculatorKata.csproj",
         "packagesPath": "C:\\Users\\miran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miran\\source\\repos\\Katas Practice\\StringCalculatorKata\\StringCalculatorKata\\obj\\",
+        "outputPath": "C:\\Users\\miran\\source\\repos\\Katas-Practice\\Attempts\\StringCalculator-csharp.xUnit-Attempt-2\\StringCalculatorKata\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miran\\AppData\\Roaming\\NuGet\\NuGet.Config",

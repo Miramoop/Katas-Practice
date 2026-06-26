@@ -94,3 +94,14 @@ C:\Users\miran\source\repos\Katas Practice\StringCalculatorKata\StringCalculator
 C:\Users\miran\source\repos\Katas Practice\StringCalculatorKata\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.pdb
 C:\Users\miran\source\repos\Katas Practice\StringCalculatorKata\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.genruntimeconfig.cache
 C:\Users\miran\source\repos\Katas Practice\StringCalculatorKata\StringCalculatorKataTests\obj\Debug\net10.0\ref\StringCalculatorKataTests.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\bin\Debug\net10.0\.msCoverageSourceRootsMapping_StringCalculatorKataTests
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\bin\Debug\net10.0\CoverletSourceRootsMapping_StringCalculatorKataTests
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.csproj.AssemblyReference.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.AssemblyInfoInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.AssemblyInfo.cs
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.sourcelink.json
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\obj\Debug\net10.0\refint\StringCalculatorKataTests.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit-Attempt-2\StringCalculatorKataTests\obj\Debug\net10.0\StringCalculatorKataTests.pdb
