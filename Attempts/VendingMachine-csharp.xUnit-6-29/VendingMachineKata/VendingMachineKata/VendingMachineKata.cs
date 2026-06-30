@@ -87,8 +87,7 @@ public class VendingMachine
                 {
                     Output = $"Vending Gum: Change {ExtraChange:C2}";
                 }
-
-                //var item = items.FirstOrDefault(x => x.Code == "A04");
+                
                 item.Quantity--;
             }
             else if (item.Quantity == 0)
