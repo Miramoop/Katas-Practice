@@ -1,0 +1,12 @@
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\bin\Debug\net10.0\FizzBuzz-csharp.xUnit.deps.json
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\bin\Debug\net10.0\FizzBuzz-csharp.xUnit.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\bin\Debug\net10.0\FizzBuzz-csharp.xUnit.pdb
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\obj\Debug\net10.0\FizzBuzz-csharp.xUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\obj\Debug\net10.0\FizzBuzz-csharp.xUnit.AssemblyInfoInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\obj\Debug\net10.0\FizzBuzz-csharp.xUnit.AssemblyInfo.cs
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\obj\Debug\net10.0\FizzBuzz-csharp.xUnit.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\obj\Debug\net10.0\FizzBuzz-csharp.xUnit.sourcelink.json
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\obj\Debug\net10.0\FizzBuzz-csharp.xUnit.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\obj\Debug\net10.0\refint\FizzBuzz-csharp.xUnit.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\obj\Debug\net10.0\FizzBuzz-csharp.xUnit.pdb
+C:\Users\miran\source\repos\Katas-Practice\Attempts\FizzBuzz-csharp.xUnit\FizzBuzz-csharp.xUnit\obj\Debug\net10.0\ref\FizzBuzz-csharp.xUnit.dll
