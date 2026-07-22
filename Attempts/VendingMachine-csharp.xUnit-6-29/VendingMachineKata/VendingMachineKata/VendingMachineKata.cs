@@ -80,7 +80,6 @@ public class VendingMachine
             
             if (ChangeEntered >= 40 && item.Quantity != 0)
             {
-
                 Output = "Vending Gum";
                 ExtraChange = (ChangeEntered - 40) / 100;
                 if (ExtraChange > 0)
