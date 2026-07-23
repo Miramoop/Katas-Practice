@@ -1,0 +1,12 @@
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\bin\Debug\net10.0\VendingMachineKata.deps.json
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\bin\Debug\net10.0\VendingMachineKata.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\bin\Debug\net10.0\VendingMachineKata.pdb
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\obj\Debug\net10.0\VendingMachineKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\obj\Debug\net10.0\VendingMachineKata.AssemblyInfoInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\obj\Debug\net10.0\VendingMachineKata.AssemblyInfo.cs
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\obj\Debug\net10.0\VendingMachineKata.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\obj\Debug\net10.0\VendingMachineKata.sourcelink.json
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\obj\Debug\net10.0\VendingMachineKata.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\obj\Debug\net10.0\refint\VendingMachineKata.dll
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\obj\Debug\net10.0\VendingMachineKata.pdb
+C:\Users\miran\source\repos\Katas-Practice\Attempts\VendingMachineKata 7-22\VendingMachineKata\obj\Debug\net10.0\ref\VendingMachineKata.dll
