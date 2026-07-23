@@ -1,0 +1,12 @@
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\bin\Debug\net10.0\TwoDigitSum.deps.json
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\bin\Debug\net10.0\TwoDigitSum.dll
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\bin\Debug\net10.0\TwoDigitSum.pdb
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\obj\Debug\net10.0\TwoDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\obj\Debug\net10.0\TwoDigitSum.AssemblyInfoInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\obj\Debug\net10.0\TwoDigitSum.AssemblyInfo.cs
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\obj\Debug\net10.0\TwoDigitSum.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\obj\Debug\net10.0\TwoDigitSum.sourcelink.json
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\obj\Debug\net10.0\TwoDigitSum.dll
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\obj\Debug\net10.0\refint\TwoDigitSum.dll
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\obj\Debug\net10.0\TwoDigitSum.pdb
+C:\Users\miran\source\repos\Katas-Practice\Examples\TwoDigitSum\TwoDigitSum\obj\Debug\net10.0\ref\TwoDigitSum.dll

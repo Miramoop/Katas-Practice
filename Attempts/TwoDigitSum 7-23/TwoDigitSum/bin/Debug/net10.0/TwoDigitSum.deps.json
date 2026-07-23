@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TwoDigitSum/1.0.0": {
+        "runtime": {
+          "TwoDigitSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TwoDigitSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

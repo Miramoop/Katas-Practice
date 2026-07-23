@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDigitSum", "TwoDigitSum\TwoDigitSum.csproj", "{A6285E99-E448-4E0C-A5CA-319D444EEA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoDigitSum.Tests", "TwoDigitSum.Tests\TwoDigitSum.Tests.csproj", "{B2B54843-A08B-4DF7-AD3D-05BA0B103C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6285E99-E448-4E0C-A5CA-319D444EEA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6285E99-E448-4E0C-A5CA-319D444EEA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6285E99-E448-4E0C-A5CA-319D444EEA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6285E99-E448-4E0C-A5CA-319D444EEA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B54843-A08B-4DF7-AD3D-05BA0B103C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B54843-A08B-4DF7-AD3D-05BA0B103C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B54843-A08B-4DF7-AD3D-05BA0B103C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B54843-A08B-4DF7-AD3D-05BA0B103C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
