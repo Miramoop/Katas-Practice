@@ -1,0 +1,5 @@
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit 8-7\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit 8-7\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.AssemblyInfoInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit 8-7\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.AssemblyInfo.cs
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit 8-7\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\Katas-Practice\Attempts\StringCalculator-csharp.xUnit 8-7\StringCalculatorKata\obj\Debug\net10.0\StringCalculatorKata.sourcelink.json
